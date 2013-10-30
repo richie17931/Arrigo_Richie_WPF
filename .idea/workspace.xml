@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/ConeVolumeCalc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/Pathagorean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/day2_variables.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Arrigo_Richie_WPF.iws" />
@@ -28,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
+            <state line="5" column="41" selection-start="106" selection-end="106" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -37,17 +41,50 @@
       <file leaf-file-name="day1_variables.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="780">
+            <state line="17" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VolumeCalc.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="VolumeCalc.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="57" selection-start="188" selection-end="188" vertical-scroll-proportion="0.107913665" vertical-offset="0" max-vertical-offset="695">
+            <state line="5" column="57" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day2_variables.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/day2_variables.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="0" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConeVolumeCalc.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/ConeVolumeCalc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="48" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding>
+                <element signature="e#0#48#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pathagorean.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/Pathagorean.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="695">
+              <folding>
+                <element signature="e#0#48#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,7 +110,11 @@
         <option value="$PROJECT_DIR$/JS/day1_variables.js" />
         <option value="$PROJECT_DIR$/JS/VolumeCalc" />
         <option value="$PROJECT_DIR$/JS/VolumeCalc.js" />
+        <option value="$PROJECT_DIR$/JS/ConeVolumeCalc.js" />
+        <option value="$PROJECT_DIR$/JS/TriangleCalc.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/JS/Pathagorean.js" />
+        <option value="$PROJECT_DIR$/JS/day2_variables.js" />
       </list>
     </option>
   </component>
@@ -108,7 +149,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,6 +183,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,8 +192,8 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="/Applications/GitHub 2.app" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -160,14 +201,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -176,6 +209,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -218,7 +259,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="818" extended-state="7" />
+    <frame x="0" y="22" width="1440" height="818" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -268,27 +309,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="165" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="43" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="165">
           <folding />
         </state>
@@ -343,24 +363,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
+        <state line="5" column="57" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+        <state line="17" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="57" selection-start="188" selection-end="188" vertical-scroll-proportion="0.107913665" vertical-offset="0" max-vertical-offset="695">
+        <state line="5" column="41" selection-start="106" selection-end="106" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/day2_variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/ConeVolumeCalc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="48" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/Pathagorean.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="695">
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

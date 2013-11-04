@@ -63,7 +63,7 @@ for(i=0;i<=9;i++){
             land = 'Marsh';
 
         grid[i][j]=land;
-        console.log(landType);
+        //console.log(landType);
         console.log('Grid['+i+']['+j+']='+grid[i][j]);
     }
 }

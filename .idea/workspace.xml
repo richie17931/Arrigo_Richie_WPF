@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="" />
+    <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/day4_Conditionals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/day3_ArraysLoops.js" afterPath="$PROJECT_DIR$/JS/day3_ArraysLoops.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Arrigo_Richie_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,62 +31,19 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="7" selection-start="144" selection-end="144" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+            <state line="5" column="30" selection-start="95" selection-end="95" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day1_variables.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
+      <file leaf-file-name="day4_Conditionals.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/day4_Conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="780">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VolumeCalc.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="57" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day2_variables.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/day2_variables.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConeVolumeCalc.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/ConeVolumeCalc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="48" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pathagorean.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/Pathagorean.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day3_ArraysLoops.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS/day3_ArraysLoops.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.352518" vertical-offset="310" max-vertical-offset="1635">
-              <folding />
+            <state line="61" column="12" selection-start="1348" selection-end="1348" vertical-scroll-proportion="0.7194245" vertical-offset="385" max-vertical-offset="1110">
+              <folding>
+                <element signature="e#0#47#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +73,10 @@
         <option value="$PROJECT_DIR$/JS/TriangleCalc.js" />
         <option value="$PROJECT_DIR$/JS/Pathagorean.js" />
         <option value="$PROJECT_DIR$/JS/day2_variables.js" />
+        <option value="$PROJECT_DIR$/JS/day4_ArraysLoops.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/JS/day3_ArraysLoops.js" />
+        <option value="$PROJECT_DIR$/JS/day4_Conditionals.js" />
       </list>
     </option>
   </component>
@@ -147,6 +111,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,7 +146,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,8 +154,8 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="/Applications/GitHub 2.app" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -199,14 +163,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -215,6 +171,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -257,7 +221,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="818" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="818" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -291,13 +255,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="43" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="165">
@@ -361,13 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/day2_variables.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="0" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
@@ -389,17 +339,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="144" selection-end="144" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+        <state line="17" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.21875" vertical-offset="108" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/day3_ArraysLoops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.352518" vertical-offset="310" max-vertical-offset="1635">
+        <state line="124" column="21" selection-start="3107" selection-end="3107" vertical-scroll-proportion="1.3453237" vertical-offset="925" max-vertical-offset="2025">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="95" selection-end="95" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/day4_Conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="12" selection-start="1348" selection-end="1348" vertical-scroll-proportion="0.7194245" vertical-offset="385" max-vertical-offset="1110">
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

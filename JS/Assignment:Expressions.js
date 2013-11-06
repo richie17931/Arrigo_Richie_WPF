@@ -20,3 +20,7 @@ var width=Number(prompt('What is the width?'));
 var height=Number(prompt('What is the height?'));
 var area= width*height/2;
 console.log(area);
+
+// Using Modulus
+var remainder= 101%10;
+console.log(remainder);

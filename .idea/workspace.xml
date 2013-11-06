@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/World.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/day4_Conditionals.js" afterPath="$PROJECT_DIR$/JS/day4_Conditionals.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/Assignment:Expressions.js" />
     </list>
     <ignored path="Arrigo_Richie_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,35 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day4_Conditionals.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/day4_Conditionals.js">
+      <file leaf-file-name="Assignment:Expressions.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/Assignment:Expressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="18" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="960">
-              <folding>
-                <element signature="e#0#47#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day5_.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/day5_.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="45" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-              <folding>
-                <element signature="e#0#47#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="World.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS/World.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="1" selection-start="462" selection-end="462" vertical-scroll-proportion="0.38848922" vertical-offset="0" max-vertical-offset="695">
-              <folding>
-                <element signature="e#0#47#0" expanded="false" />
-              </folding>
+            <state line="5" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0647482" vertical-offset="0" max-vertical-offset="695">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,6 +74,7 @@
         <option value="$PROJECT_DIR$/JS/World.js" />
         <option value="$PROJECT_DIR$/JS/day4_Conditionals.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/JS/Assignment:Expressions.js" />
       </list>
     </option>
   </component>
@@ -134,6 +109,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,7 +144,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,8 +152,8 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="/Applications/GitHub 2.app" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -186,6 +161,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -194,14 +177,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -245,13 +220,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="818" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -278,11 +253,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="780" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/VolumeCalc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="43" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="165" />
@@ -342,28 +312,17 @@
         <state line="124" column="21" selection-start="3107" selection-end="3107" vertical-scroll-proportion="1.3453237" vertical-offset="925" max-vertical-offset="2025" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="86" selection-end="86" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/day4_Conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="18" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="960">
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
+        <state line="44" column="18" selection-start="980" selection-end="980" vertical-scroll-proportion="0.52517986" vertical-offset="295" max-vertical-offset="990">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/day5_.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="45" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
+        <state line="57" column="45" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.63309354" vertical-offset="415" max-vertical-offset="1110">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -373,6 +332,20 @@
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="86" selection-end="86" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/Assignment:Expressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0647482" vertical-offset="0" max-vertical-offset="695">
+          <folding />
         </state>
       </provider>
     </entry>

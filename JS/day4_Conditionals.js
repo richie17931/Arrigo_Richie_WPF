@@ -39,7 +39,6 @@
 
 //10x10 with 5 land types
 var grid=[];
-var land;
 var landType;
 
 //fill grid
@@ -47,24 +46,13 @@ for(i=0;i<=9;i++){
     grid[i]=[];
     for(j=0;j<=9;j++){
         //grid[i][j]=[];
-
         landType= Math.random();
-        if(landType<=.2){
-            land = 'Cave';
-        }
-        else if(landType<=.4){
-            land = 'Desert';
-        }
-        else if(landType<=.6){
-            land = 'Forest';
-        }
-        else if(landType<=.8){
-            land = 'Plains';
-        }
-        else
-            land = 'Marsh';
+        if(landType<=.2){grid[i][j] = 'Cave';}
+        else if(landType<=.4){grid[i][j] = 'Desert';}
+        else if(landType<=.6){grid[i][j] = 'Forest';}
+        else if(landType<=.8){grid[i][j] = 'Plains';}
+        else{grid[i][j] = 'Marsh';}
 
-        grid[i][j]=land;
         //console.log(landType);
         console.log('['+i+']['+j+']='+grid[i][j]);
     }

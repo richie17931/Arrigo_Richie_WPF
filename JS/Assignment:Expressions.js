@@ -15,8 +15,8 @@ for(i=0;i<numberOfQuizzes;i++){
     total+=quizzes[i];
 }
 
-var length=Number(prompt('Enter the length:'));
-var height=Number(prompt('Enter the height:'));
+var perimeterLength=Number(prompt('Enter the length:'));
+var perimeterHeight=Number(prompt('Enter the height:'));
 
 // Basic Expressions
 var a= 7;
@@ -55,10 +55,9 @@ var quiz5= 93;
 var quiz6= 84;
 var average= (quiz1+quiz2+quiz3+quiz4+quiz5+quiz6)/6;
 console.log('Quiz Average:'+average);
-
 console.log('Quiz Average:'+total/numberOfQuizzes);
 
 // Perimeter
-console.log('The perimeter= '+((length*2)+(height*2)));
+console.log('The perimeter= '+((perimeterLength*2)+(perimeterHeight*2)));
 
 

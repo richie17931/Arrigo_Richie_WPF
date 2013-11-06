@@ -13,3 +13,10 @@ console.log(b);
 var yearBorn= 1992;
 var age= 2013-yearBorn;
 console.log('Age:'+age);
+
+// Arithmetic Operators
+// area of a triangle is half the width x height
+var width=Number(prompt('What is the width?'));
+var height=Number(prompt('What is the height?'));
+var area= width*height/2;
+console.log(area);

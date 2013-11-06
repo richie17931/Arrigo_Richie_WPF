@@ -46,6 +46,8 @@ var landType;
 for(i=0;i<=9;i++){
     grid[i]=[];
     for(j=0;j<=9;j++){
+        //grid[i][j]=[];
+
         landType= Math.random();
         if(landType<=.2){
             land = 'Cave';
@@ -64,7 +66,7 @@ for(i=0;i<=9;i++){
 
         grid[i][j]=land;
         //console.log(landType);
-        console.log('Grid['+i+']['+j+']='+grid[i][j]);
+        console.log('['+i+']['+j+']='+grid[i][j]);
     }
 }
 

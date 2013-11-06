@@ -30,3 +30,14 @@ console.log("Remainder:"+remainder);
 value=value%2;
 if(value==0){console.log('Your number is even.');}
 else{console.log('Your number is odd');}
+
+// Order of Operations(PEMDAS)
+var quiz1= 100;
+var quiz2= 95;
+var quiz3= 78;
+var quiz4= 90;
+var quiz5= 93;
+var quiz6= 84;
+
+var average= (quiz1+quiz2+quiz3+quiz4+quiz5+quiz6)/6;
+console.log(average);

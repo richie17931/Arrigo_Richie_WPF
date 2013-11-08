@@ -39,7 +39,7 @@ console.log("Area:"+area);
 
 // Using Modulus
 var remainder= 101%10;
-console.log("Remainder:"+remainder);
+console.log("Remainder of 101/10= "+remainder);
 
 value=value%2;
 if(value==0){console.log('Your number is even.');}
@@ -59,5 +59,9 @@ console.log('Quiz Average:'+total/numberOfQuizzes);
 
 // Perimeter
 console.log('The perimeter= '+((perimeterLength*2)+(perimeterHeight*2)));
+
+
+// Using Arrays in Expressions
+
 
 

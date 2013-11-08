@@ -5,7 +5,7 @@
 // Wacky Expressions example
 // Video game suggestions
 
-var genre=prompt('What type of game would you like to play?(FPS, RPG, Strategy');
+var genre=prompt('What type of game would you like to play?(FPS, RPG, Strategy)');
 var type=prompt('Are you a casual or hardcore player?');
 
 if(genre=='FPS'||genre=='fps'){
@@ -40,4 +40,7 @@ else if(genre=='Strategy'||genre=='strategy'){
     else{
         console.log('You did not enter a valid selection.');
     }
+}
+else{
+    console.log('You did not enter a valid selection.');
 }

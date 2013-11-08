@@ -30,3 +30,14 @@ else if(genre=='RPG'||genre=='rpg'){
         console.log('You did not enter a valid selection.');
     }
 }
+else if(genre=='Strategy'||genre=='strategy'){
+    if(type=='casual'||type=='Casual'){
+        console.log('I suggest you play League of Legends.');
+    }
+    else if(type=='hardcore'||type=='Hardcore'){
+        console.log('I suggest you play Sid Meier\'s Civilization V.');
+    }
+    else{
+        console.log('You did not enter a valid selection.');
+    }
+}

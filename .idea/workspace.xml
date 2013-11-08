@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/ExpressionsAssignment2.js" afterPath="$PROJECT_DIR$/JS/ExpressionsAssignment2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/ExpressionsAssignment3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Arrigo_Richie_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="Assignment:Expressions.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/Assignment:Expressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="0" selection-start="1283" selection-end="1334" vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="1065">
+            <state line="15" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1065">
               <folding>
                 <element signature="e#0#47#0" expanded="false" />
               </folding>
@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpressionsAssignment1.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment1.js">
+      <file leaf-file-name="ExpressionsAssignment3.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="29" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="10" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="695">
               <folding>
                 <element signature="e#0#47#0" expanded="false" />
               </folding>
@@ -57,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpressionsAssignment2.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ExpressionsAssignment2.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="51" selection-start="399" selection-end="399" vertical-scroll-proportion="0.30215827" vertical-offset="0" max-vertical-offset="695">
+            <state line="16" column="51" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding>
                 <element signature="e#0#47#0" expanded="false" />
               </folding>
@@ -86,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/JS/VolumeCalc" />
         <option value="$PROJECT_DIR$/JS/VolumeCalc.js" />
         <option value="$PROJECT_DIR$/JS/ConeVolumeCalc.js" />
         <option value="$PROJECT_DIR$/JS/TriangleCalc.js" />
@@ -99,9 +98,10 @@
         <option value="$PROJECT_DIR$/JS/day4_Conditionals.js" />
         <option value="$PROJECT_DIR$/JS/day6_review.js" />
         <option value="$PROJECT_DIR$/JS/ExpressionsAssignment1.js" />
-        <option value="$PROJECT_DIR$/JS/Assignment:Expressions.js" />
         <option value="$PROJECT_DIR$/JS/ExpressionsAssignment2.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/JS/Assignment:Expressions.js" />
+        <option value="$PROJECT_DIR$/JS/ExpressionsAssignment3.js" />
       </list>
     </option>
   </component>
@@ -280,13 +280,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/day1_variables.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
@@ -345,25 +338,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day6_review.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="14" selection-start="687" selection-end="687" vertical-scroll-proportion="0.38848922" vertical-offset="135" max-vertical-offset="1305">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="29" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/Assignment:Expressions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="0" selection-start="1283" selection-end="1334" vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="1065">
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
@@ -377,9 +354,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS/Assignment:Expressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1065">
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="51" selection-start="399" selection-end="399" vertical-scroll-proportion="0.30215827" vertical-offset="0" max-vertical-offset="695">
+        <state line="16" column="51" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/day6_review.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="687" selection-end="687" vertical-scroll-proportion="0.5827338" vertical-offset="0" max-vertical-offset="1305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="695">
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>

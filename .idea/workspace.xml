@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/ExpressionsAssignment1.js" afterPath="$PROJECT_DIR$/JS/ExpressionsAssignment1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/ExpressionsAssignment2.js" afterPath="$PROJECT_DIR$/JS/ExpressionsAssignment2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/ExpressionsAssignment3.js" afterPath="$PROJECT_DIR$/JS/ExpressionsAssignment3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Arrigo_Richie_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpressionsAssignment3.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ExpressionsAssignment3.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="80" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+            <state line="4" column="39" selection-start="88" selection-end="88" vertical-scroll-proportion="0.043165468" vertical-offset="0" max-vertical-offset="750">
               <folding>
                 <element signature="e#0#47#0" expanded="false" />
               </folding>
@@ -61,10 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpressionsAssignment1.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ExpressionsAssignment1.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="280" selection-end="280" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="695">
+            <state line="4" column="39" selection-start="49" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <folding>
+                <element signature="e#0#47#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressionsAssignment2.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="39" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <folding>
                 <element signature="e#0#47#0" expanded="false" />
               </folding>
@@ -101,11 +115,11 @@
         <option value="$PROJECT_DIR$/JS/World.js" />
         <option value="$PROJECT_DIR$/JS/day4_Conditionals.js" />
         <option value="$PROJECT_DIR$/JS/day6_review.js" />
-        <option value="$PROJECT_DIR$/JS/ExpressionsAssignment2.js" />
         <option value="$PROJECT_DIR$/JS/Assignment:Expressions.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/JS/ExpressionsAssignment3.js" />
         <option value="$PROJECT_DIR$/JS/ExpressionsAssignment1.js" />
+        <option value="$PROJECT_DIR$/JS/ExpressionsAssignment2.js" />
+        <option value="$PROJECT_DIR$/JS/ExpressionsAssignment3.js" />
       </list>
     </option>
   </component>
@@ -342,28 +356,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS/day6_review.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="687" selection-end="687" vertical-scroll-proportion="0.5827338" vertical-offset="0" max-vertical-offset="1305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS/Assignment:Expressions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="1" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1065">
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="51" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/day6_review.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="14" selection-start="687" selection-end="687" vertical-scroll-proportion="0.5827338" vertical-offset="0" max-vertical-offset="1305">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -374,18 +379,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment3.js">
+    <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="80" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+        <state line="4" column="39" selection-start="49" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment1.js">
+    <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="280" selection-end="280" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="695">
+        <state line="4" column="39" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/ExpressionsAssignment3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="39" selection-start="88" selection-end="88" vertical-scroll-proportion="0.043165468" vertical-offset="0" max-vertical-offset="750">
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>

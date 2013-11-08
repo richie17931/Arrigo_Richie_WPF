@@ -19,3 +19,14 @@ if(genre=='FPS'||genre=='fps'){
         console.log('You did not enter a valid selection.');
     }
 }
+else if(genre=='RPG'||genre=='rpg'){
+    if(type=='casual'||type=='Casual'){
+        console.log('I suggest you play The Elder Scrolls V: Skyrim.');
+    }
+    else if(type=='hardcore'||type=='Hardcore'){
+        console.log('I suggest you play Dark Souls.');
+    }
+    else{
+        console.log('You did not enter a valid selection.');
+    }
+}

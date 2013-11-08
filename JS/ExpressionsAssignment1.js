@@ -30,6 +30,6 @@ else if(currentMonth==birthMonth && currentDay<birthDay){
 }
 else{
     var age= currentYear-birthYear;
-    console.log('Your age:'+age);
+    console.log('Your age: '+age);
 }
 

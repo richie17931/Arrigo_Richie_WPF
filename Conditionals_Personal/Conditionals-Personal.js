@@ -7,3 +7,6 @@ var budget=Number(prompt('Enter your total budget amount: '));
 var expenses=Number(prompt('Enter your total expenses: '));
 var profit=budget-expenses;
 
+if(profit>0){
+    console.log('You have $'+profit+' extra to spend!');
+}

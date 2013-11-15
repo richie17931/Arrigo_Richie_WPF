@@ -13,3 +13,6 @@ if(profit>0){
 else if(profit==0){
     console.log('Your bills are paid but you have no extra money!');
 }
+else{
+    console.log('You are $'+Math.abs(profit)+' in debt!');
+}

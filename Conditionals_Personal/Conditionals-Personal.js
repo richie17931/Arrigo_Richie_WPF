@@ -10,3 +10,6 @@ var profit=budget-expenses;
 if(profit>0){
     console.log('You have $'+profit+' extra to spend!');
 }
+else if(profit==0){
+    console.log('Your bills are paid but you have no extra money!');
+}

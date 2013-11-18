@@ -3,6 +3,8 @@
  */
 
 //budget calculator
+
+//the 
 var budget=Number(prompt('Enter your total budget amount: '));
 var expenses=Number(prompt('Enter your total expenses: '));
 var profit=budget-expenses;

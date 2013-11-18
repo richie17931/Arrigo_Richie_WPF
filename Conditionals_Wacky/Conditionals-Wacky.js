@@ -13,6 +13,12 @@ console.log('Your rolled a '+diceRoll+'!');
 if(diceRoll==1){
     console.log('Your attacked missed!');
 }
+// checks if the user rolls between 2-5 to determine if they just glanced the opponent with their attack.
+// reduces damage done by 50%
+else if(diceRoll<=5){
+    console.log('You glanced your opponent and did '+diceRoll/2+' damage!');
+}
+
 
 
 

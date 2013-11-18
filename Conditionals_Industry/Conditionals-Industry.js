@@ -11,7 +11,10 @@ var backpack=[slots];
 // variable to check when to quit asking the user for input
 var quitTest=true;
 
+// do loop to get the user's input for what is in their inventory and quit when they enter a null value
+do{
 
+} while(quitTest)
 
 
 

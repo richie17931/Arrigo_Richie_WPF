@@ -18,6 +18,12 @@ if(diceRoll==1){
 else if(diceRoll<=5){
     console.log('You glanced your opponent and did '+diceRoll/2+' damage!');
 }
+// checks to see if the user rolls between 6-15 for a normal hit
+else if(diceRoll<=15){
+    console.log('You land a solid hit dealing '+diceRoll+' damage!');
+}
+
+
 
 
 

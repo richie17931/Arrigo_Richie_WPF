@@ -22,7 +22,14 @@ else if(diceRoll<=5){
 else if(diceRoll<=15){
     console.log('You land a solid hit dealing '+diceRoll+' damage!');
 }
-
+// checks if the user rolls between 16-19 to hit the enemy's weak spot for 150% damage
+else if(diceRoll<20){
+    console.log('Your strike the enemy\'s weak spot dealing '+diceRoll*1.5+' damage!');
+}
+// checks if the user rolls a 20 to indicate a critical hit that deals 300% damage and stuns the enemy
+else{
+    console.log('You critically hit your enemy doing '+diceRoll*3+' damage and stunning them!');
+}
 
 
 

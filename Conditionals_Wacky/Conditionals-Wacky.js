@@ -9,4 +9,10 @@ var diceRoll=Math.round(Math.random()*(20-1)+1);
 // display the dice roll
 console.log('Your rolled a '+diceRoll+'!');
 
+// checks if the dice roll is 1 to indicate if the player misses
+if(diceRoll==1){
+    console.log('Your attacked missed!');
+}
+
+
 

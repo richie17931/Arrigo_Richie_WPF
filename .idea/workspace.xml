@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Personal/Conditionals-Personal.js" afterPath="$PROJECT_DIR$/Conditionals_Personal/Conditionals-Personal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js" afterPath="$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js" />
     </list>
     <ignored path="Arrigo_Richie_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,26 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals-Personal.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Conditionals-Personal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="56" selection-start="727" selection-end="727" vertical-scroll-proportion="0.41007194" vertical-offset="0" max-vertical-offset="695">
-              <folding>
-                <element signature="e#0#48#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="38" selection-start="68" selection-end="68" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conditionals-Wacky.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Conditionals-Wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+            <state line="8" column="24" selection-start="235" selection-end="235" vertical-scroll-proportion="0.1294964" vertical-offset="0" max-vertical-offset="695">
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
@@ -100,10 +80,10 @@
         <option value="$PROJECT_DIR$/JS/World.js" />
         <option value="$PROJECT_DIR$/JS/WorldDisplay.js" />
         <option value="$PROJECT_DIR$/JS/WorldCreate.js" />
-        <option value="$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/Conditionals-Personal.js" />
+        <option value="$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js" />
       </list>
     </option>
   </component>
@@ -167,20 +147,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Conditionals_Wacky" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Arrigo_Richie_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Arrigo_Richie_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Conditionals_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,15 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="33" selection-start="139" selection-end="139" vertical-scroll-proportion="0.111773476" vertical-offset="0" max-vertical-offset="671">
@@ -381,9 +338,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Conditionals-Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="56" selection-start="727" selection-end="727" vertical-scroll-proportion="0.41007194" vertical-offset="0" max-vertical-offset="695">
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="38" selection-start="68" selection-end="68" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+        <state line="3" column="38" selection-start="68" selection-end="68" vertical-scroll-proportion="0.067064084" vertical-offset="0" max-vertical-offset="671">
           <folding />
         </state>
       </provider>
@@ -395,9 +361,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Conditionals-Personal.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="56" selection-start="727" selection-end="727" vertical-scroll-proportion="0.41007194" vertical-offset="0" max-vertical-offset="695">
+        <state line="8" column="24" selection-start="235" selection-end="235" vertical-scroll-proportion="0.1294964" vertical-offset="0" max-vertical-offset="695">
           <folding>
             <element signature="e#0#48#0" expanded="false" />
           </folding>

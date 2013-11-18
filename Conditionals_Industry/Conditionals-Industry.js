@@ -13,7 +13,12 @@ var quitTest=true;
 
 // do loop to get the user's input for what is in their inventory and quit when they enter a null value
 do{
-
+    // for loop to run the as long as there is space in the user's inventory and they have items to put in it
+    for(i=0;i<backpack.length;i++){
+        // fills the backpack array with the user's input
+        backpack[i]=prompt('Enter an item from your inventory(Esc to finish filling bags):');
+        if(backpack[i]==null){quitTest==false; break;}
+    }
 } while(quitTest)
 
 

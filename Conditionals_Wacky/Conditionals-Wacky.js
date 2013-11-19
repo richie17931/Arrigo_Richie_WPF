@@ -2,6 +2,7 @@
  * Created by richardarrigo on 11/18/13.
  */
 
+// Richie Arrigo | 2492145 | 11/18/2013
 // rolling a D20 for damage
 
 // create a variable to store a random number between 1-20 to represent a D20 roll

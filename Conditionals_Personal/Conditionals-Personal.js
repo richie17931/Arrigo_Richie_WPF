@@ -17,7 +17,7 @@ do{
 } while(isNaN(expenses)==true)
 
 //calculates the amount of money left after bills are paid
-var profit=budget-expenses;
+var profit= budget-expenses;
 
 // to check if the user has money left over after bills are paid
 if(profit>0){

@@ -46,3 +46,54 @@ function monsterGen(landType){
     }
     return monsterArray;
 }
+
+// gold 1-1000, gems 1-4, weapon 1
+function monsterGen(monsterName){ // adding monsterName parameter for treasure
+    // create an array for treasure
+    var treasure= [];
+    var treasureType= Math.random();
+    var treasureAmount= Math.random();
+    var minGold= 0;
+    var maxGold= 0;
+    var minGems= 0;
+    var maxGems= 0;
+    var minWeapons= 0;
+    var maxWeapons= 0;
+
+    if(monsterName){
+        minGold= 1;
+        maxGold= 1000;
+        minGems= 1;
+        maxGems= 4;
+        minWeapons= 1;
+        maxWeapons= 1;
+    }
+
+    // 10% chance to get gold, 5% chance for others, else null
+    if(treasureType<=.1){
+
+    }
+    else if(treasureType<=.15){ // gems
+
+    }
+    else if(treasureType<=.2){ // weapon
+
+    }
+    else if(treasureType<=.25){ // gold, gems
+
+    }
+    else if(treasureType<=.3){ // gold, weapon
+
+    }
+    else if(treasureType<=.35){  //
+
+    }
+    else if(treasureType<=.4){ //
+
+    }
+    else{
+        treasure[0]= 'You got hosed!';
+    }
+
+    return treasure;
+}

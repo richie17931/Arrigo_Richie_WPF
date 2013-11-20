@@ -3,7 +3,8 @@
  */
 
 // Richie Arrigo | 2492145 | 11/20/13
-// calculator for the area of a trapezoid in order to cover the surface area with tiles
+    
+// calculator for the area of a trapezoid(in feet) in order to cover the surface area with tiles
 // required parameters: base1, base2, height
 
 // create a variable to hold the prompted value for base one of the trapezoid
@@ -15,12 +16,16 @@ var height= Number(prompt('What is the height?'));
 
 // create a function body
 function trapezoidAreaCalc(b1,b2,h){
+    // variable to hold the calculated value
     var area= h/2*(b1+b2);
+    // returns the value
     return area;
 }
 
+// variable to hold the calculated value based on user's input
 var userArea= trapezoidAreaCalc(baseOne,baseTwo,height);
-console.log(userArea);
+// display the answer
+console.log('The area of the trapezoid is '+userArea+' squared feet.');
 
 
 

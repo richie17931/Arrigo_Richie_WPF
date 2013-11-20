@@ -24,5 +24,5 @@ function inventory(s){
     // display the contents of their pack
     console.log('Your backpack contains: '+backpack);
 }
-
+// calls the inventory function passing it the user's input for how many items they need to store
 inventory(slots);

@@ -16,7 +16,9 @@ var backpack= [];
 function inventory(slots){
     // loop the number of times you need to add an item
     for(i=0; i<slots; i++){
+        // add the item that the user enters into their backpack
         backpack[i]= prompt('Enter an item to add: ');
     }
+    // display the contents of their pack
     console.log(backpack);
 }

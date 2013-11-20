@@ -23,6 +23,7 @@ function sphereCalc(rad, calc){
 // variable created to store the outcome of sphereCalc function call
 var userFormula= sphereCalc(radius, calculation);
 
+// ternary to determine if they calculated the area or volume and provide the correct output.
 calculation.toUpperCase()=='AREA' ? console.log('The area of the sphere is '+userFormula.toFixed(3)+' squared feet.') :
                                     console.log('The volume of the sphere is '+userFormula.toFixed(3)+' cubed feet.');
 

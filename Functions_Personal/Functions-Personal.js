@@ -22,11 +22,8 @@ function sphereCalc(rad, calc){
 
 // variable created to store the outcome of sphereCalc function call
 var userFormula= sphereCalc(radius, calculation);
-// display the results of the calculator
-if(calculation.toUpperCase=='AREA'){
-    console.log('The area of the sphere is '+userFormula.toFixed(3)+' squared feet.');
-}
-else{
-    console.log('The volume of the sphere is '+userFormula.toFixed(3)+' cubed feet.');
-}
+
+calculation.toUpperCase()=='AREA' ? console.log('The area of the sphere is '+userFormula.toFixed(3)+' squared feet.') :
+                                    console.log('The volume of the sphere is '+userFormula.toFixed(3)+' cubed feet.');
+
 

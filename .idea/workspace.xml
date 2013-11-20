@@ -33,10 +33,19 @@
       <file leaf-file-name="Functions-Industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Industry/Functions-Industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="25" selection-start="671" selection-end="671" vertical-scroll-proportion="0.28057554" vertical-offset="0" max-vertical-offset="695">
+            <state line="22" column="22" selection-start="835" selection-end="835" vertical-scroll-proportion="0.43165466" vertical-offset="0" max-vertical-offset="695">
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -371,13 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="0.067064084" vertical-offset="0" max-vertical-offset="671">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Wacky/Functions-Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="33" selection-start="50" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
@@ -392,9 +394,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/Functions-Industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="25" selection-start="671" selection-end="671" vertical-scroll-proportion="0.28057554" vertical-offset="0" max-vertical-offset="695">
+        <state line="22" column="22" selection-start="835" selection-end="835" vertical-scroll-proportion="0.43165466" vertical-offset="0" max-vertical-offset="695">
           <folding>
             <element signature="e#0#48#0" expanded="false" />
           </folding>

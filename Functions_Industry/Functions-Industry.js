@@ -15,8 +15,13 @@ var height= Number(prompt('What is the height?'));
 
 // create a function body
 function trapezoidAreaCalc(b1,b2,h){
-
+    var area= h/2*(b1+b2);
+    return area;
 }
+
+var userArea= trapezoidAreaCalc(baseOne,baseTwo,height);
+console.log(userArea);
+
 
 
 

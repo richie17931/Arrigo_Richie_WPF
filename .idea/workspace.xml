@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dd52fb-6ecf-4d0e-84e0-78ac41d0deed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Industry/Functions-Industry.js" afterPath="$PROJECT_DIR$/Functions_Industry/Functions-Industry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Personal/Functions-Personal.js" afterPath="$PROJECT_DIR$/Functions_Personal/Functions-Personal.js" />
     </list>
     <ignored path="Arrigo_Richie_WPF.iws" />
@@ -61,10 +60,19 @@
       <file leaf-file-name="Functions-Personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Personal/Functions-Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="459" selection-end="459" vertical-scroll-proportion="0.23741007" vertical-offset="0" max-vertical-offset="695">
+            <state line="25" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.4964029" vertical-offset="0" max-vertical-offset="695">
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -198,20 +206,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Arrigo_Richie_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Arrigo_Richie_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Conditionals_Personal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -333,14 +327,11 @@
         <state line="8" column="7" selection-start="114" selection-end="114" vertical-scroll-proportion="-0.0" vertical-offset="120" max-vertical-offset="210" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="38" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="210" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Conditionals-Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
+        <state line="38" column="0" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Conditionals-Industry.js">
@@ -383,13 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="0.067064084" vertical-offset="0" max-vertical-offset="671">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Wacky/Functions-Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="33" selection-start="50" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
@@ -418,9 +402,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="38" selection-start="68" selection-end="68" vertical-scroll-proportion="0.067064084" vertical-offset="0" max-vertical-offset="671">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Personal/Functions-Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="459" selection-end="459" vertical-scroll-proportion="0.23741007" vertical-offset="0" max-vertical-offset="695">
+        <state line="25" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.4964029" vertical-offset="0" max-vertical-offset="695">
           <folding>
             <element signature="e#0#48#0" expanded="false" />
           </folding>

@@ -16,10 +16,17 @@ do{
 
 // create a function that takes in the radius and what they want to calculate
 function sphereCalc(rad, calc){
-    var area= calc.toUpperCase()=='AREA'? 4*Math.PI*(rad*rad): (4/3)*Math.PI*(rad*rad*rad)
-    return area;
+    var formula= calc.toUpperCase()=='AREA'? 4*Math.PI*(rad*rad): (4/3)*Math.PI*(rad*rad*rad)
+    return formula;
 }
 
-var userArea= sphereCalc(radius, calculation);
-console.log(userArea.toFixed(3));
+// variable created to store the outcome of sphereCalc function call
+var userFormula= sphereCalc(radius, calculation);
+// display the results of the calculator
+if(calculation.toUpperCase=='AREA'){
+    console.log('The area of the sphere is '+userFormula.toFixed(3)+' squared feet.');
+}
+else{
+    console.log('The volume of the sphere is '+userFormula.toFixed(3)+' cubed feet.');
+}
 
